@@ -23,10 +23,10 @@ Aqui você você verá projetos com: JavaScript, HTML, CSS e NodeJs.
 
 
 - Tenho um formção em Desenvolvimento Web Fullstack, pela Digital House.
-- 25 anos 
-- Apaixonado por futebol 
-- Cristão 
-- Eu prefiro ser chamado pelo meu apelido, Léo. Quando alguém me chama pelo meu nome, em geral eu penso que a pessoa está com raiva de mim ou chateada comigo 🥺
+- 25 anos.
+- Apaixonado por futebol.
+- Cristão. 
+
 
 
 
