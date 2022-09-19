@@ -2,7 +2,7 @@
 
 Olá, seja bem-vindo! 
 
-me chamo Caian e sou um desenvolvedor Web em crescimento.
+Sou um desenvolvedor Web em crescimento.
 
 Aqui você você verá projetos com: JavaScript, HTML, CSS e NodeJs. 
 
