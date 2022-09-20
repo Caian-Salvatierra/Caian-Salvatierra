@@ -10,10 +10,10 @@ Aqui você você verá projetos com: JavaScript, HTML, CSS e NodeJs.
 
 🧰 Ferramentas
 
- <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" style=" height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-<img src= "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" style="display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-<img src= "https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" style="height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
-<img src= "https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJs" style=" height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+ <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" "display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+<img src= "https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" "display: inline-block; height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+<img src= "https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" style="display: inline-block;height: 80px; margin: 0.20em; padding: 0.2em; width: 60px;" />
+<img src= "https://cdn.worldvectorlogo.com/logos/nodejs-2.svg" alt="NodeJs" "display: inline-block;height: 50px; margin: 0.20em; padding: 0.2em; width: 60px;" />
 
 
 ---
